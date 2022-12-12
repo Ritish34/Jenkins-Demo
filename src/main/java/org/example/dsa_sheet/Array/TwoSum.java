@@ -26,7 +26,7 @@ package org.example.dsa_sheet.Array;
  */
 public class TwoSum {
 	public static void main(String[] args){
-		System.out.println("Welcome to DSA Learning");
+		System.out.println("Welcome to DSA Learning...........");
 		
 	}
 }
