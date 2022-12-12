@@ -25,5 +25,7 @@ package org.example.dsa_sheet.Array;
  *     Only one valid answer exists.
  */
 public class TwoSum {
-
+	public static void main(String[] args){
+		System.out.println("Welcome to DSA Learning");
+	}
 }
