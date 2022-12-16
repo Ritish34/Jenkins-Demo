@@ -30,7 +30,7 @@ pipeline
     }
     post {
         always {
-            emailext body: 'Summary', subject: 'Pipeline Result Status', to: 'ritish.inexture@gmail.com'
+            echo "Post Action Called!!!"
         }
     }
   
